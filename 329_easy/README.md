@@ -1,5 +1,4 @@
-[2017-8-28] Challenge #329 [Easy] Nearest Lucky Numbers
-https://www.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/
+[2017-8-28] Challenge #329 [Easy] [Nearest Lucky Numbers](https://www.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/)
 
 ===============================================================================
 
